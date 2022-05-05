@@ -1,4 +1,4 @@
-# Curriculo**vitae**ebac :earth_americas:
+# Curriculo vitae ebac :earth_americas:
 
 > :milky_way: Repositório publicado para upar o desafio EBAC.
 
